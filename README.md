@@ -1,0 +1,1 @@
+# hydra-openvino-yolo-model

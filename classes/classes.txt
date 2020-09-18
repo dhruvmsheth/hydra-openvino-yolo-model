@@ -1,0 +1,9 @@
+alternaria
+cedar
+fire-blight
+flowering
+fresh
+fungal
+leaf-roller
+raw
+ripe
